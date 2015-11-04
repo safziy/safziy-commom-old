@@ -14,7 +14,7 @@ import org.json.JSONObject;
 import com.google.common.collect.HashMultiset;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multiset;
-import com.safziy.service.log.LogUtil;
+import com.safziy.commom.service.log.LogUtil;
 
 public class JSONUtils {
 

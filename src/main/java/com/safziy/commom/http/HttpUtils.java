@@ -18,8 +18,8 @@ import org.apache.http.entity.ByteArrayEntity;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
+import com.safziy.commom.service.log.LogUtil;
 import com.safziy.commom.utils.ValidateUtils;
-import com.safziy.service.log.LogUtil;
 
 public class HttpUtils {
 

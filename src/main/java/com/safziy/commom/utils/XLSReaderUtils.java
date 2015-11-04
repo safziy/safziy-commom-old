@@ -13,7 +13,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
-import com.safziy.service.log.LogUtil;
+import com.safziy.commom.service.log.LogUtil;
 
 public class XLSReaderUtils {
 	

@@ -1,4 +1,4 @@
-package com.safziy.service.log;
+package com.safziy.commom.service.log;
 
 import org.apache.log4j.Logger;
 
