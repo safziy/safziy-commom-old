@@ -18,9 +18,13 @@ public class LogUtil {
 	public static void error(String message) {
 		commonLogger.error(message);
 	}
-	
+
 	public static void error(Throwable e) {
 		commonLogger.error(e);
+	}
+
+	public static void error(String message, Throwable e) {
+		commonLogger.error(message, e);
 	}
 
 	public static void databaseDebug(String message) {
